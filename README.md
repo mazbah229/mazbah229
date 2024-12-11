@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Mazbah
-![](https://github.com/mazbah229/mazbah229/blob/main/git_BG1.png?raw=true)
+![](https://github.com/mazbah229/mazbah229/blob/main/git_BG.png?raw=true)
 
 I’m Mohammad Mazbah Uddin. (±19) A self-employed from Bangladesh. Basically I’m a Graphics Designer, WordPress Web Designer, Landing Page Designer, Video Editor, Content Creator and more...
 
