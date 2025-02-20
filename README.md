@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Mazbah
 ![](https://github.com/mazbah229/mazbah229/blob/main/git_BG.png?raw=true)
 
-I’m Mohammad Mazbah Uddin. (±19) A self-employed from Bangladesh. Basically I’m a Graphics Designer, WordPress Web Designer, Landing Page Designer, Video Editor, Content Creator and more...
+I’m Mohammad Mazbah Uddin. (±19) A freelance worker from Bangladesh.
+Basically I’m a WordPress Web Designer, Landing Page Designer, Graphics Designer, Video Editor, Content Creator and more...
 
 - 🔭 I’m currently working on <a href="https://www.bdcdonor.xyz/"><b>Blood Defenders Chattogram - BDC</b></a>'s project as a WordPress Web Designer, Graphic Designer & Video Editor since 2023. 
 - 🌱 I’m currently learning <b>WordPress Web Development</b> 
