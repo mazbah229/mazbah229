@@ -4,7 +4,7 @@
 I’m Mohammad Mazbah Uddin. (±19) A freelance worker from Bangladesh.
 Basically I’m a WordPress Web Designer, Landing Page Designer, Graphics Designer, Video Editor, Content Creator and more...
 
-- 🔭 I’m currently working on <a href="https://pixonexit.com/"><b>PixoNex IT</b></a>as a WordPress Web Designer & CEO since 2020. 
+- 🔭 I’m currently working on <a href="https://pixonexit.com/"><b>PixoNex IT</b></a> as a WordPress Web Designer & CEO since 2020. 
 - 🌱 I’m currently learning <b>PHP-Laravel Based Web Development</b> 
 - 📫 How to reach me: <br>Website: https://mazbah229.github.io/<br>E-mail: mazbah229@gmail.com / design.mazbah229@gmail.com 
 
