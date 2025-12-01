@@ -1,17 +1,30 @@
 # Hi there 👋, I'm Mazbah
 ![](https://github.com/mazbah229/mazbah229/blob/main/git_BG.png?raw=true)
 
-I’m Mohammad Mazbah Uddin. (±19) A freelance worker from Bangladesh.
-Basically I’m a WordPress Web Designer, Landing Page Designer, Graphics Designer, Video Editor, Content Creator and more...
-
-- 🔭 I’m currently working on <a href="https://pixonexit.com/"><b>PixoNex IT</b></a> as a WordPress Web Designer & CEO since 2020. 
-- 🌱 I’m currently learning <b>PHP-Laravel Based Web Development</b> 
-- 📫 How to reach me: <br>Website: https://mazbah229.github.io/<br>E-mail: mazbah229@gmail.com / design.mazbah229@gmail.com 
+# 💫 About Me:
+🔭 I’m currently working at PixoNex IT as a WordPress Web Designer & CEO since 2020.<br>🌱 I’m currently learning PHP-Laravel-based web Development<br>📫 How to reach me:<br>Website: https://mazbah229.github.io/<br>E-mail: mazbah229@gmail.com / design.mazbah229@gmail.com
 
 
-[<img src='https://raw.githubusercontent.com/shovoalways/shovoalways/main/img/facebook.png' alt='facebook' height='40'>](https://facebook.com/mazbah.dev.229) [<img src='https://github.com/shovoalways/shovoalways/raw/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://instagram.com/mazbah.229)  [<img src='https://cdn-icons-png.flaticon.com/512/5339/5339181.png' alt='website' height='40'>](https://mazbah229.github.io/)  
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mazbah229) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mazbah.mb.229) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mazbah.229) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mazbah229@gmail.com) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazbah229)](https://github.com/anuraghazra/github-readme-stats)
+# 💻 Tech Stack:
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mazbah229&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mazbah229&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mazbah229&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mazbah229&show_icons=true)  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mazbah229&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mazbah229&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mazbah229&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
